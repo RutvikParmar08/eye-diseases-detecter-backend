@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+backend_env/
+
+# Node
+node_modules/
+build/
+
+# Data
+data/
+*.jpg
+*.png
+*.tif
+*.jpeg
+
+#model
+models/
+*.pth
+
+# VSCode / IDE
+.vscode/
+.idea/
