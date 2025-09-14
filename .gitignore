@@ -19,7 +19,7 @@ build/
 # *.jpeg
 
 #model
-models/
+# models/
 *.pth
 
 # VSCode / IDE
