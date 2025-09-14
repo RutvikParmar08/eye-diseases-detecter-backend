@@ -11,12 +11,12 @@ backend_env/
 node_modules/
 build/
 
-# Data
-data/
-*.jpg
-*.png
-*.tif
-*.jpeg
+# # Data
+# data/
+# *.jpg
+# *.png
+# *.tif
+# *.jpeg
 
 #model
 models/

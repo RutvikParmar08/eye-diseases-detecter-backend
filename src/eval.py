@@ -1,12 +1,3 @@
-# import tensorflow as tf
-# from dataset import load_datasets
-
-# MODEL_PATH = "models/best_model.h5"
-# model = tf.keras.models.load_model(MODEL_PATH)
-
-# _, val_ds = load_datasets("data")
-# loss, acc, auc = model.evaluate(val_ds)
-# print(f"Accuracy: {acc:.3f}, AUC: {auc:.3f}")
 
 import torch
 from src.dataset import get_dataloaders
